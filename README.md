@@ -9,7 +9,7 @@ every human being, written for the
 [make.fun](https://make.fun/bounty/u-0xb3e689-warning-label-for-humans-one-line-big-laugh-40e31f85)
 bounty "Warning Label for Humans: One Line, Big Laugh".
 
-> WARNING: This human has read the instructions twice and will now do it their own way. Stand clear.
+> WARNING: Opinions harden on contact with facts.
 
 ## How it works
 
@@ -21,7 +21,7 @@ Run it with:
 mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-The output `entry.txt` is a single line, 98 characters, and identical on
+The output `entry.txt` is a single line, 47 characters, and identical on
 every run.
 
 ## License

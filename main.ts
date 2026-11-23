@@ -3,8 +3,7 @@ import { join } from "node:path";
 
 // Warning Label for Humans — one line, big laugh.
 // The label, exactly as printed on every human being:
-const LINE =
-  "WARNING: This human has read the instructions twice and will now do it their own way. Stand clear.";
+const LINE = "WARNING: Opinions harden on contact with facts.";
 
 const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 
